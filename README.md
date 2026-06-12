@@ -1,1 +1,5 @@
-# week2_assignment-1
+Name: Harshika Mittal
+College: IGDTUW
+Enrollment no: 07301172025
+WEEK2-ASSIGNMENT-1
+NETFLIX USER ANALYTICS
